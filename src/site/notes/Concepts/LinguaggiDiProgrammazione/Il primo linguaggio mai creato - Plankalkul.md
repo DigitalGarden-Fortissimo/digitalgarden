@@ -10,9 +10,9 @@ Il primo [[linguaggio di programmazione\|linguaggio di programmazione]] mai crea
 Col tempo questo approccio e' scemato, e ora si creano linguaggi senza considerare troppo la macchina. E' poi compito degli implementatori far cooperare [[linguaggio di programmazione\|linguaggio di programmazione]] e macchina.
 
 # Caratteristiche del Plankalkul
-In realta' non fu mai effettivamente implementato, ma l'idea era di creare un [[linguaggio di programmazione\|linguaggio di programmazione]] che stesse al di sopra del [[Codice Macchina\|Codice Macchina]].
-> [!question] Il [[Codice Macchina\|Codice Macchina]] non andava bene?
-> Il [[Codice Macchina\|Codice Macchina]] aveva diversi svantaggi:
+In realta' non fu mai effettivamente implementato, ma l'idea era di creare un [[linguaggio di programmazione\|linguaggio di programmazione]] che stesse al di sopra del [[Concepts/LinguaggiDiProgrammazione/Codice Macchina\|Codice Macchina]].
+> [!question] Il [[Concepts/LinguaggiDiProgrammazione/Codice Macchina\|Codice Macchina]] non andava bene?
+> Il [[Concepts/LinguaggiDiProgrammazione/Codice Macchina\|Codice Macchina]] aveva diversi svantaggi:
 > - Scarsa leggibilita'
 > - Scarsa modificabilita'
 > - Difficolta' nella codifica delle espressioni

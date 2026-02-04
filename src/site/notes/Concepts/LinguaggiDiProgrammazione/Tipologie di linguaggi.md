@@ -3,7 +3,7 @@
 ---
 
 - [[Concepts/LinguaggiDiProgrammazione/Linguaggi imperativi e a oggetti\|Linguaggi imperativi e a oggetti]]
-- [[Linguaggi funzionali\|Linguaggi funzionali]]
-- [[Linguaggi Logici\|Linguaggi Logici]] 
+- [[Concepts/LinguaggiDiProgrammazione/Linguaggi funzionali\|Linguaggi funzionali]]
+- [[Concepts/LinguaggiDiProgrammazione/Linguaggi Logici\|Linguaggi Logici]] 
 - [[Linguaggi di Scripting\|Linguaggi di Scripting]]
 - [[Linguaggi di Markup\|Linguaggi di Markup]]

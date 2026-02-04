@@ -4,7 +4,9 @@
 
 # Storia
 Ideato nel 1954 come _Fortran 0_, poi progettato effettivamente come _Fortran 1_ per il computer [[IBM 704\|IBM 704]].
-> E' stato il primo linguaggio creato indipendentemente dalla macchina. I primi linguaggi come [[Concepts/LinguaggiDiProgrammazione/Il primo linguaggio mai creato - Plankalkul\|Plankalkul]], [[Short Code\|Short Code]] e [[Concepts/LinguaggiDiProgrammazione/Speedcoding\|Speedcoding]] erano tutti dipendenti dall'architettura della macchina
+> E' stato il primo linguaggio progettato in modo che fosse indipendentemente dalla macchina. I primi linguaggi come [[Concepts/LinguaggiDiProgrammazione/Il primo linguaggio mai creato - Plankalkul\|Plankalkul]], [[Short Code\|Short Code]] e [[Concepts/LinguaggiDiProgrammazione/Speedcoding\|Speedcoding]] erano tutti dipendenti dall'architettura della macchina
+
+Espresso meglio: [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]] fu pur sempre creato per l'[[IBM 704\|IBM 704]] pero' aveva caratteristiche che lo resero poi portabile su altre architetture (EX: [[Concepts/LinguaggiDiProgrammazione/compilatore\|compilatore]]) e grazie ad esse il [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]] lo possiamo usare anche noi sulle nostre macchine.
 # Fortran 1
 # [[Concepts/LinguaggiDiProgrammazione/Indipendenza dei linguaggi dalla macchina\|Indipendenza dei linguaggi dalla macchina]]
 # Scelte progettuali
@@ -14,14 +16,14 @@ l'[[IBM 704\|IBM 704]] era un computer all'avanguardia per quei tempi (supportav
 ## Perche' compilato e non interpretato
 Perche' con l'hardware di quei tempi era impossibile nascondere il costo computazionale dell'interpretazione.
 Tradotto in italiano:
-> Il processo di traduzione da linguaggio di alto livello a [[Codice Macchina\|Codice Macchina]] sarebbe stato troppo lento e ne avrebbero sofferto le prestazioni del programma.
-## [[Ambiente di sviluppo\|Ambiente di sviluppo]] e dominio applicativo
-L'[[Ambiente di sviluppo\|Ambiente di sviluppo]] di [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]] era piuttosto scarno, come del resto era il panorama della programmazione negli anni '50
+> Il processo di traduzione da linguaggio di alto livello a [[Concepts/LinguaggiDiProgrammazione/Codice Macchina\|Codice Macchina]] sarebbe stato troppo lento e ne avrebbero sofferto le prestazioni del programma.
+## [[Concepts/LinguaggiDiProgrammazione/Ambiente di sviluppo\|Ambiente di sviluppo]] e dominio applicativo
+L'[[Concepts/LinguaggiDiProgrammazione/Ambiente di sviluppo\|Ambiente di sviluppo]] di [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]] era piuttosto scarno, come del resto era il panorama della programmazione negli anni '50
 > Oltre a compilatori, [[linker\|linker]] e [[assembler\|assembler]] che almeno permettevano al programma di eseguire non c'era nient'altro:
 - I computer erano piccoli e inaffidabili (e poco potenti).
 	- Vedo che il [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]] ha tenuto conto di questa cosa qui: [[Concepts/LinguaggiDiProgrammazione/Caratteristiche fondamentali di Fortran\|Caratteristiche fondamentali di Fortran]], nella parte dove citiamo la mancanza di memorizzazione dinamica.
 - Non esisteva ancora nessuna [[metodologia programmativa\|metodologia programmativa]] oppure nessun strumento di programmazione (Ex: IDE)
-- I [[compilatore\|compilatori]] erano anch'essi molto basici, non c'era nessun tipo di ottimizzazione del programma al di fuori di quella fatta manualmente dal programmatore stesso, per questo motivo l'efficienza della macchina era la **preoccupazione piu' importante**.
+- I [[Concepts/LinguaggiDiProgrammazione/compilatore\|compilatori]] erano anch'essi molto basici, non c'era nessun tipo di ottimizzazione del programma al di fuori di quella fatta manualmente dal programmatore stesso, per questo motivo l'efficienza della macchina era la **preoccupazione piu' importante**.
 [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]] era un linguaggio molto incentrato su operazioni matematiche. Il suo dominio applicativo era quindi quello delle _applicazioni scientifiche_.
 
 ## Un esempio di [[Concepts/LinguaggiDiProgrammazione/Fortran\|Fortran]]
