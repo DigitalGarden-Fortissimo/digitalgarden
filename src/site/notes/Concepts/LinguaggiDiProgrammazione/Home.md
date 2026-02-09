@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/concepts/linguaggi-di-programmazione/home/","tags":["gardenEntry"]}
 ---
 
-# Entry points
-- [[Concepts/LinguaggiDiProgrammazione/Entry Points\|Entry Points]]
+# Articles
+# [[Articles/Lisp/01 - Il viaggio sul Common Lisp inizia\|01 - Il viaggio sul Common Lisp inizia]] 
 
